@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "つくる",
+  "base_artist": "ひとひら",
+  "createdAt": "2026-02-22T09:07:30.227040Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "つくる",
+      "artist": "ひとひら",
+      "has_synced": false,
+      "path": "select/pl_01_つくる_ひとひら.txt"
+    }
+  ]
+}
